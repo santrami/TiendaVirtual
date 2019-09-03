@@ -1,5 +1,5 @@
 body{
-    background: orange;    
+    background: orange;     
 }
 
 .main-title{
@@ -9,7 +9,8 @@ body{
 
 /*footer*/
 footer{
-    background: #222;
+    background: #333;
+   
 }
 
 ul.redes li{

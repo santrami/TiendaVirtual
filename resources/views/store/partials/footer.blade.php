@@ -1,4 +1,4 @@
-<footer class="container-fluid " style="position:absolute; bottom:0; width:100%; height:auto; clear:both;">
+<footer class="container-fluid ">
     <div class="row">
         <div class="col-md-4" style="color:white;">
             <h3>Mi Tienda Virtual</h3>
