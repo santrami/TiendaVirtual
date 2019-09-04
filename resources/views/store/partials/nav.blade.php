@@ -16,6 +16,10 @@
             <a class="nav-link" href=" {{ route('home') }} ">Inicio <span class="sr-only">(current)</span></a>
         </li>
 
+        <li class="nav-item active">
+            <a class="nav-link" href=" {{ route('register') }} ">Registro <span class="sr-only">(current)</span></a>
+        </li>
+
         
         @include('store.partials.menu-user')
     </ul>  
